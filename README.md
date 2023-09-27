@@ -1,6 +1,6 @@
 # Rocket-Nozzles
 
-As well as the RTApp project, these scripts were developed during my degree final thesis and the main goal was to make a quick cad-tool to get the geometries of different rocket nozzles with 3 individual designs in order to compare them in from several analytical and experimental perspectives. In order of appearance, the images matches with the Angelino's Method Aerospike nozzle, the Method of Characteristics 2D profile and the Rao's Method for TOPN or Thrust Optimized Parabolic Nozzle.
+As well as the [RTApp](https://github.com/marcosflz/RTApp) project, these scripts were developed during my degree final thesis and the main goal was to make a quick cad-tool to get the geometries of different rocket nozzles with 3 individual designs in order to compare them in from several analytical and experimental perspectives. In order of appearance, the images matches with the Angelino's Method Aerospike nozzle, the Method of Characteristics 2D profile and the Rao's Method for TOPN or Thrust Optimized Parabolic Nozzle.
 
 The exported charts also include a color map based pressure field calculated for each case.
 
