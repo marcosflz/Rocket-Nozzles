@@ -2,7 +2,7 @@
 
 
 # Problema a resolver ccon las ecuaciones de un flujo cuasi-unidemsional.
-P1 = P1Result
+P1 = P1Result #Decision del punto de operacion.
 P2  =   P3
 v2  =   np.sqrt(((2*gamma)/(gamma-1))*R*T1*(1-(P2/P1)**((gamma-1)/gamma)))
 G   =   regressionRate(P1,coefs[0],coefs[1])*Aref*rho
