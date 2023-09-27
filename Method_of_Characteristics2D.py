@@ -2,7 +2,7 @@
 
 
 # Resolucion del problema cuasi-unidimensional.
-P1 = P1Result
+P1 = P1Result #Decision del punto de operacion.
 gamma = 1.2529712919314542 
 R = 349.52459961214936 
 P2  =   P3
